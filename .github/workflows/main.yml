@@ -1,4 +1,4 @@
-name: ShopItemFunc
+name: films
 
 on:
   push:
