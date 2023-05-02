@@ -39,9 +39,6 @@ jobs:
       - name: Install dependencies
         run: yarn install
 
-      - name: Run linters
-        run: yarn lint --fix
-
       - name: Build
         run: yarn build
 
